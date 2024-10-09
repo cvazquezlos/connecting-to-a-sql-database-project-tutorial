@@ -15,7 +15,7 @@
 
 	"onCreateCommand": "cp -n .env.example .env",
 	"features": {
-		"ghcr.io/devcontainers-contrib/features/postgres-asdf:1": {}
+		"ghcr.io/devcontainers-contrib/features/postgres-asdf:1.0.2": {}
 	},
 	// Use 'postCreateCommand' to run commands after the container is created.
 	// "postCreateCommand": "pip install --user -r requirements.txt",
